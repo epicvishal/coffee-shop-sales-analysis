@@ -35,7 +35,7 @@ The main objective of this project is to analyze retail sales data to gain actio
 - **Average Order Value:**  💵
 
 ## 📷 Screenshots
-_Add screenshots of your Excel analysis here_
+![Image](https://github.com/user-attachments/assets/ea372671-c2dd-4fbf-be3e-111e2466b4e8)
 
 ## 🏁 Conclusion
 This analysis helps the Coffee Shop optimize sales strategies, manage inventory effectively, and improve customer experience by identifying trends and peak sales hours.
